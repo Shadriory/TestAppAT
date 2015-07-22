@@ -1,4 +1,4 @@
-/* 
+/*
 * Roots v 2.0.0
 * Follow me @adanarchila at Codecanyon.net
 * URL: http://codecanyon.net/item/roots-phonegapcordova-multipurpose-hybrid-app/9525999
@@ -221,6 +221,7 @@ map.fullscreen {
   color: #fff;
   font-weight: normal;
   margin: 0 0 5px 0;
+
 }
 .details-content .subtitle {
   font-family: 'Playfair Display SC', serif;
